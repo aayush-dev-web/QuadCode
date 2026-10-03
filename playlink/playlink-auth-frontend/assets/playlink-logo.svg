@@ -1,0 +1,32 @@
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pinGradient" x1="90" y1="18" x2="165" y2="124" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1CC66A"/>
+      <stop offset="1" stop-color="#0FAF5A"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <path d="M48 110C48 80.1766 72.1766 56 102 56H160C171.046 56 180 64.9543 180 76V105C180 115.493 171.493 124 161 124H48V110Z" fill="#0B2D4F"/>
+    <path d="M45 111C45 90.0132 62.0132 73 83 73H163C180.673 73 195 87.3269 195 105V122C195 137.464 182.464 150 167 150H45V111Z" fill="#0E3A5E"/>
+    <path d="M111 74C85.595 74 65 94.595 65 120C65 146.406 85.595 167 111 167C136.405 167 157 146.406 157 120C157 94.595 136.405 74 111 74ZM111 153C93.3269 153 79 138.673 79 120C79 101.327 93.3269 87 111 87C128.673 87 143 101.327 143 120C143 138.673 128.673 153 111 153Z" fill="white" fill-opacity="0.25"/>
+    <path d="M110 170C97.8497 170 87.5 159.65 87.5 147.5C87.5 144.786 88.0658 142.025 89.1276 139.323C90.4469 135.395 92.7827 131.712 96.807 128.563C101.58 124.76 108.121 122.5 110 122.5C112.003 122.5 118.546 124.737 123.318 128.534C127.34 131.684 129.675 135.365 131.003 139.295C132.069 142 132.5 144.77 132.5 147.5C132.5 159.65 122.15 170 110 170Z" fill="#0B2D4F"/>
+    <circle cx="110" cy="106" r="57" fill="url(#pinGradient)"/>
+    <circle cx="110" cy="106" r="25" fill="#F6F8FB"/>
+    <circle cx="110" cy="106" r="12" fill="url(#pinGradient)"/>
+
+    <g transform="translate(24 18)">
+      <circle cx="0" cy="0" r="38" fill="#0B2D4F"/>
+      <circle cx="0" cy="0" r="28" fill="#FDFEFE"/>
+      <path d="M-18 -6H18M-14 7H14M-7 20H7M-1 -20H1" stroke="#0B2D4F" stroke-width="4" stroke-linecap="round"/>
+      <path d="M0 -16V14M-14 0H14" stroke="#0B2D4F" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+    </g>
+
+    <g transform="translate(165 28)">
+      <circle cx="0" cy="0" r="40" fill="#F4F7FA"/>
+      <circle cx="0" cy="0" r="32" fill="#0B2D4F"/>
+      <path d="M-9 -20L-2 -6L-16 2L-6 12L-10 28L3 20L17 28L13 12L23 2L9 -6L16 -20L2 -14L-9 -20Z" fill="#F4F7FA"/>
+      <path d="M0 -4L6 5L0 14L-6 5L0 -4Z" fill="#0B2D4F" opacity="0.9"/>
+    </g>
+  </g>
+</svg>
